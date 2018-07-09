@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTML, CSS, and the Web:"
-date:       2018-07-09 15:10:25 +0000
+date:       2018-07-09 11:10:26 -0400
 permalink:  html_css_and_the_web
 ---
 
