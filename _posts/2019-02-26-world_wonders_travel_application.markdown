@@ -17,6 +17,7 @@ A user can create, edit, and delete his/her trips, and trips can have many detai
 
 I set up the following associations: Users have many trips and Trips belong to Users. Trips have many Tours and they have many Countries through Tours. Tours is the join table for Trips and Countries. Countries have many Tours and have many Trips through Tours. Trips have many Visits and have many World Wonders through Visits. Visits is the join table between Trips and World Wonders. World Wonders have many Visits and have many Trips through Visits. Countries have many World Wonders and World Wonders belong to a Country. I found these associations to be quite challenging 
 ![](https://imgur.com/81ND7qc)
+![](https://imgur.com/81ND7qc)
 
 After establishing my models, associations, and database, I set up my controllers and views.  Because I seeded my database with all of the county and world wonder information, I did not create new/update/edit/delete actions or views for countries or world wonders. I want these lists to be static. Possibly in the future I will add in the ability for an admin to create or change these models. I set up a few AR validations to ensure that proper data is stored in my database. I provide for user authentication with password digest and Omniauth and for user authorization with methods such as current_user. 
 
