@@ -23,8 +23,8 @@ It took some time and a bit of trial and error to get everything working as inte
 
 After establishing my models, associations, and database, I set up my controllers and views.  Because I seeded my database with all of the county and world wonder information, I did not create new/update/edit/delete actions or views for countries or world wonders. I want these lists to be static. Possibly in the future I will add in the ability for an admin to create or change these models. I set up a few AR validations to ensure that proper data is stored in my database. I provide for user authentication with password digest and Omniauth and for user authorization with methods such as current_user. 
 
-Next, I created search features for my world wonder and country index pages to allow a user to filter by certain attributes to quickly find the world wonder or country he/she has in mind. Countries can be filtered by region, climate, or searched for by name. World Wonders can be filtered by region, category (natural or man-made), or search for by name.
+Next, I created search features for my world wonder and country index pages to allow a user to filter by certain attributes to quickly find the world wonder or country he/she has in mind. Countries can be filtered by region, climate, or searched for by name. World Wonders can be filtered by region, category (natural or man-made), or search for by name. Here is the World Wonder index page with the search feature:
 ![](https://imgur.com/yPp0Jyh.jpg) 
 
-
-
+Overall, I thought this project was lots of fun and lots of work. I am submitting the project for review as I believe I have met all of the project requirements, although I will continue to improve this application as there are many more features I would like to add. Congrats to my fellow students who have completed the rails project and good luck to all of you who are getting started on it!
+![](https://imgur.com/a/pYOtBFu.jpg)
