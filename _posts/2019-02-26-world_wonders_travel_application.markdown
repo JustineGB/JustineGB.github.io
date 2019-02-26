@@ -27,4 +27,4 @@ Next, I created search features for my world wonder and country index pages to a
 ![](https://imgur.com/yPp0Jyh.jpg) 
 
 Overall, I thought this project was lots of fun and lots of work. I am submitting the project for review as I believe I have met all of the project requirements, although I will continue to improve this application as there are many more features I would like to add. Congrats to my fellow students who have completed the rails project and good luck to all of you who are getting started on it!
-![](https://imgur.com/a/pYOtBFu.jpg)
+![](https://imgur.com/a/pYOtBFu)
