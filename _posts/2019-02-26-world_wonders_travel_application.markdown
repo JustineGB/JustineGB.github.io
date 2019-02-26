@@ -18,6 +18,8 @@ A user can create, edit, and delete his/her trips, and trips can have many detai
 I set up the following associations: Users have many trips and Trips belong to Users. Trips have many Tours and they have many Countries through Tours. Tours is the join table for Trips and Countries. Countries have many Tours and have many Trips through Tours. Trips have many Visits and have many World Wonders through Visits. Visits is the join table between Trips and World Wonders. World Wonders have many Visits and have many Trips through Visits. Countries have many World Wonders and World Wonders belong to a Country. I found these associations to be quite challenging...
 ![](http://imgur.com/a/AyyU3XS)
 
+![]<blockquote class="imgur-embed-pub" lang="en" data-id="a/AyyU3XS"><a href="//imgur.com/AyyU3XS">My gawd no! Damnit! No!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 It took some time and a bit of trial and error to get everything working as intended. Here is a diagram of my associations:
 ![](https://imgur.com/ZUY9vpn.jpg)
 
