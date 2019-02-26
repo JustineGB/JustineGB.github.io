@@ -16,7 +16,7 @@ My application is set up with the following models: User, Trip, Tour, Country, V
 A user can create, edit, and delete his/her trips, and trips can have many details such as length, packing list, visited yet or not (and year visited, if visited), transportation, hotel info, and attractions. Trips can also have associated countries and world wonders added to them. It is a far-fetched goal of mine to visit all of the Howard Hillman’s Top 100 World Wonders of the World, so I used this list to seed my database: [Hillman's List](https://www.hillmanwonders.com). To seed my database with country information, I used this list that is available publically from data collected by the U.S. government: [Country List](http://www.statvision.com/webinars/countries%20of%20the%20world.xls).   
 
 I set up the following associations: Users have many trips and Trips belong to Users. Trips have many Tours and they have many Countries through Tours. Tours is the join table for Trips and Countries. Countries have many Tours and have many Trips through Tours. Trips have many Visits and have many World Wonders through Visits. Visits is the join table between Trips and World Wonders. World Wonders have many Visits and have many Trips through Visits. Countries have many World Wonders and World Wonders belong to a Country. I found these associations to be quite challenging...
-![](https://imgur.com/a/AyyU3XS.jpg)
+![](http://imgur.com/a/AyyU3XS)
 
 It took some time and a bit of trial and error to get everything working as intended. Here is a diagram of my associations:
 ![](https://imgur.com/ZUY9vpn.jpg)
@@ -27,4 +27,4 @@ Next, I created search features for my world wonder and country index pages to a
 ![](https://imgur.com/yPp0Jyh.jpg) 
 
 Overall, I thought this project was lots of fun and lots of work. I am submitting the project for review as I believe I have met all of the project requirements, although I will continue to improve this application as there are many more features I would like to add. Congrats to my fellow students who have completed the rails project and good luck to all of you who are getting started on it!
-![](https://imgur.com/a/pYOtBFu)
+![](http://imgur.com/a/pYOtBFu)
