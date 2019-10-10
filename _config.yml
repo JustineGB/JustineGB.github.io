@@ -1,15 +1,14 @@
 # Site settings
+author: Justine Bricknell
 title: Justine Bricknell
 header-img: img/home-bg.png
 email: justinegayton@gmail.com
-copyright_name: JustineGB
+copyright_name: Justine Bricknell
 description: > # this means to ignore newlines until "baseurl:"
   Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JustineGB
-learn_profile: JustineGB
-email_username: justinegayton@gmail.com
 
 # Build settings
 markdown: kramdown
