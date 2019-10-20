@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Hooks "
-date:       2019-10-20 03:00:05 +0000
+date:       2019-10-19 23:00:06 -0400
 permalink:  react_hooks
 ---
 
