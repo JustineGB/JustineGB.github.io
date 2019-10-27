@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Nai Axios! "
-date:       2019-10-27 01:21:57 +0000
+date:       2019-10-26 21:21:58 -0400
 permalink:  nai_axios
 ---
 
