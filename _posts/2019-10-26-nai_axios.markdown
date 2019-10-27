@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Nai Axios! "
+date:       2019-10-27 01:21:57 +0000
+permalink:  nai_axios
+---
+
+
+Recently, while building an application that communicates with the PetFinder API, I was faced with the decision of how I was going to make the request. I decided to use Axios. Axios, like Fetch, is promise based. Side Note: Axios is a acclamation that has been adopted by the Greek Orthodox Church and it means ‘worthy of” or “deserving of.” I think the Axios creators were onto something  - Axios is pretty great and certainly “worthy of” some praise. 
+
+Anyways, back to Axios. You are able to write async/await requests. Or you can also use the promises syntax. Axios is a JavaScript library that enables you to perform HTTP requests. It works in both browser & Node.js environments. To start using Axios, you can install it via npm or yarn. Axios includes convenient methods to make your requests such as “axios.get()” or “axios.post()”.  It is similar to Ajax. You can include parameters like in any URL and include things like API keys or search parameters. You are able send custom headers when needed. The great thing about Axios is that once your HTTP request is made, the return is a promise that if it is completed, is an object that is transformed into json for you to use and manipulate easily. 
+
+
+![](https://media.giphy.com/media/9IP2zUuIyxG12/giphy.gif)
+
