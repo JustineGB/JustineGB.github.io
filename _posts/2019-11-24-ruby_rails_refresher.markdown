@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Rails Refresher"
-date:       2019-11-25 03:44:14 +0000
+date:       2019-11-24 22:44:15 -0500
 permalink:  ruby_rails_refresher
 ---
 
