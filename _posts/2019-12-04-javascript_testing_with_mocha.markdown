@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "JavaScript Testing with Mocha"
+date:       2019-12-04 21:23:01 +0000
+permalink:  javascript_testing_with_mocha
+---
+
+
+Going through the Flatiron program, I spent a whole lot of time reading and inspecting tests as I debugged each lab; however, I spent very little time writing tests myself. I mostly debugged with other tools (i.e. since reaching JavaScript, I used console.log and the Chrome Developer Tools like the debugger and the React and Redux tools). It is not a complicated topic, so it is understandable that there is just a quick section in the Flatiron program that covers writing tests (while the concept of TDD was heavily discussed). While writing tests is not a difficult concept to understand, like anything, it is much easier to do with practice. As I prepare to enter the workforce, I am frequently seeing job descriptions with requirements in writing your own tests so I decided to get some practice with JavaScript testing. 
+	I decided to add in a Mocha testing framework to the React project that I have been working on for fun.  Mocha is a JavaScript test framework that works great with React and is pretty simple to use. Mocha is very popular and it can be found in many of the Flatiron labs, but there are many other testing resources you can use so do not feel like you have to use Mocha. To start, you will just need to install Mocha onto your computer (or you can just add it as a dependency in your project). I installed it onto my computer via npm install. Then, I made a directory in the frontend of my project called ‘tests.’ As Mocha will automatically look for a file directory called ‘tests’ (pretty intuititive). Next, I was ready to create a file and start writing my Mocha tests. When writing tests, it is easiest to start out writing what you want in plain English and then formatting your function to do exactly what you want. Each test will have an expectation (what you WANT to happen/what you are EXPECTING your program to do) and then you can throw in an error statement to help you along in figuring out the type of error faster. Mocha is great in that you can use if for asynchronous testing.  You can use async/await as the second testing argument (after your it function). You can also use Hooks like before or after to check for functionality as certain points. Because testing your code is so important along the way (and afterwards as you revise and refactor your program), writing good tests is extremely important, and I am excited to incorporate this into my daily practice. 
+	
+	
+![](https://media.giphy.com/media/dGhlifOCTtSdW/giphy.gif)
