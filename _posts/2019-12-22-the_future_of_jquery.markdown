@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Future of jQuery "
-date:       2019-12-22 19:55:27 +0000
+date:       2019-12-22 14:55:28 -0500
 permalink:  the_future_of_jquery
 ---
 
