@@ -1,9 +1,9 @@
 # Site settings
-author: Justine Bricknell
-title: Justine Bricknell
+author: JGB
+title: Learn Blog
 header-img: img/home-bg.png
 email: justinegayton@gmail.com
-copyright_name: Justine Bricknell
+copyright_name: JGB
 description: > # this means to ignore newlines until "baseurl:"
   Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
