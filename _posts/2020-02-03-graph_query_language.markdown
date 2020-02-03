@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Graph Query Language"
-date:       2020-02-03 19:18:28 +0000
+date:       2020-02-03 14:18:29 -0500
 permalink:  graph_query_language
 ---
 
