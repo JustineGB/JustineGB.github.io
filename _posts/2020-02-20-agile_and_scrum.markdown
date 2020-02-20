@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Agile & Scrum "
-date:       2020-02-20 20:05:32 +0000
+date:       2020-02-20 15:05:32 -0500
 permalink:  agile_and_scrum
 ---
 
