@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Artificial Intelligence "
-date:       2020-03-01 15:15:04 +0000
+date:       2020-03-01 10:15:05 -0500
 permalink:  artificial_intelligence
 ---
 
