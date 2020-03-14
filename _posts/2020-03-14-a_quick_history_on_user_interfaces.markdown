@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Quick History on User Interfaces"
-date:       2020-03-14 18:37:50 +0000
+date:       2020-03-14 14:37:51 -0400
 permalink:  a_quick_history_on_user_interfaces
 ---
 
